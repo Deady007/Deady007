@@ -45,9 +45,8 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-**Email:** parmarviral397@gmail.com  
-**Phone:** +91 6351493983  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parmar-viral-7b5068239)  
+**Email:** parmarviral397@gmail.com    
 
 ---
 
