@@ -7,10 +7,10 @@
 
 ### 🚀 About Me
 - 🎓 BCA Graduate from **Maharaja Sayajirao University of Baroda**
-- 💻 Love building smart, efficient, and user-friendly applications
+- 💻 Passionate about crafting smart, scalable, and user-focused web apps
 - ⚙️ Tech Stack: PHP, Laravel, React.js, Node.js, MongoDB, MySQL
-- 🌱 Currently exploring **MERN stack** & advanced backend concepts
-- 🎯 Goal: **Financial stability & impactful tech career**
+- 🌱 Currently diving deeper into **MERN stack** & **AI-integrated apps**
+- 🎯 Goal: **Financial freedom & impactful tech contributions**
 
 ---
 
@@ -23,18 +23,37 @@
 
 ### 📂 Featured Projects
 
-#### 🔸 Money Management System
-> Laravel + PHP | Track income, expenses, savings | Clean UI
+#### 🧠 Guglu1 – Personal AI Assistant
+> **Flask + AI (Deployed)**  
+> Smart AI chatbot that helps with daily tasks. Built with Flask & deployed for use — still growing with more brainpower!
 
-#### 🔸 eSports Event Management
-> PHP-based system with Organizer, Player & Team Manager roles
+#### 👨‍💻 Hacker Portfolio (In Progress)
+> **React + Node.js (Deployed)**  
+> My hacker-style dev portfolio showcasing projects, skills, and vibes. Dark, minimal, and dynamic.
 
-#### 🔸 Weather App
-> React + Node.js | Real-time weather updates using API
+#### 🍗 SamratV1 – Food Delivery App
+> **React + Firebase (Deployed)**  
+> A non-veg food delivery app with real-time data handling, product browsing & cart features.
+
+#### 🌍 Weather UI (In Progress)
+> **React (Deployed)**  
+> Clean, responsive interface fetching live weather data using API integration.
+
+#### 🎮 eSports Event Management System
+> **Core PHP (Deployed)**  
+> Web app for organizing eSports events with roles like Organizer, Team Manager, and Players. Fully functional and public-ready.
+
+#### 🧾 Money Management System
+> **Core PHP (Deployable)**  
+> Tracks your income, expenses, and savings with a clean, user-friendly UI. Budgeting made simple.
+
+#### 🌐 Portfolio Website
+> **HTML/CSS/JS (Deployed)**  
+> A minimal yet elegant portfolio showcasing my work and skills — coded from scratch, just the way I like it.
 
 ---
 
-### ✨ GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deady007&show_icons=true&theme=radical" height="150"/>
@@ -46,13 +65,12 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parmar-viral-7b5068239)  
-**Email:** parmarviral397@gmail.com    
+📧 **Email:** parmarviral397@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
 
-> I write better code at 2 AM than 2 PM... Night owl dev mode ON!
+> I write better code at 2 AM than 2 PM... Night owl dev mode ON! 🌙💻
 
 ---
-
